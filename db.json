@@ -1,0 +1,226 @@
+{
+  "foods": [
+       {
+           "id": 1,
+           "title": "Tadı Nefis Pizza",
+           "name": "Cansu Güdücü",
+           "kacKisilik": "4-6",
+           "hazirlanmaSuresi": "1 Saat",
+           "pisirmeSuresi": "30dk",
+           "malzemeler":
+               "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+           "hazirlanisi":
+               "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+           "kategori": "Hamur İşi",
+           "img":
+               "https://cdn.yemek.com/mnresize/1250/833/uploads/2017/01/ev-usulu-pizza-yeni.jpg",
+           "favorite": 5
+       },
+       {
+           "id": 2,
+           "title": "Sade Cup Kek",
+           "name": "Yasemin Atalar",
+           "kacKisilik": "4-6",
+           "hazirlanmaSuresi": "10 dakika",
+           "pisirmeSuresi": "30 dakika",
+           "malzemeler":
+               "2 adet yumurta 3/4 (bir yarım+bir çeyrek) su bardağı toz şeker  çay bardağı sıvı yağ (125 ml) 1 çay bardağı süt (125 ml), 2 su bardağı un,1 paket kabartma tozu,1 paket vanilya,1 çay bardağı ceviz içi",
+           "hazirlanisi":
+               "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+           "kategori": "Hamur İşi",
+           "img":
+               "https://i.nefisyemektarifleri.com/2022/09/15/sade-cup-kek.jpg",
+           "favorite": 5
+       },
+       {
+           "id": 3,
+           "title": "Şipşak Poğaça",
+           "name": "Fatma Yazar",
+           "kacKisilik": "4-6",
+           "hazirlanmaSuresi": "1 Saat",
+           "pisirmeSuresi": "30dk",
+           "malzemeler":
+               "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+           "hazirlanisi":
+               "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+           "kategori": "Hamur İşi",
+           "img":
+               "https://i.nefisyemektarifleri.com/2022/09/13/sipsak-pogaca-1.jpg",
+           "favorite": 5
+         
+       },
+       {
+           "id": 4,
+           "title": "Ekonomik Köfte ",
+           "name": "Suna atilla",
+           "kacKisilik": "4-6",
+           "hazirlanmaSuresi": "1 Saat",
+           "pisirmeSuresi": "30dk",
+           "malzemeler":
+               "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+           "hazirlanisi":
+               "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+           "kategori": "Hamur İşi",
+           "img":
+               "https://i.nefisyemektarifleri.com/2022/09/12/ekonomik-koftekibris-koftesi.jpg",
+           "favorite": 5
+       },
+       {
+           "id": 5,
+           "title": "Patatesli Poğaça",
+           "name": "Seda_Tunc10",
+           "kacKisilik": "4-6",
+           "hazirlanmaSuresi": "1 Saat",
+           "pisirmeSuresi": "30dk",
+           "malzemeler":
+               "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+           "hazirlanisi":
+               "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+           "kategori": "tatli",
+           "img":
+               "https://i.nefisyemektarifleri.com/2022/09/11/okul-icin-patatesli-karniyarik-pogaca-puf-puf.jpg",
+           "favorite": 5
+       },
+       {
+        "id": 6,
+        "title": "Patatesli Poğaça",
+        "name": "Seda_Tunc10",
+        "kacKisilik": "4-6",
+        "hazirlanmaSuresi": "1 Saat",
+        "pisirmeSuresi": "30dk",
+        "malzemeler":
+            "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+        "hazirlanisi":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "kategori": "tatli",
+        "img":
+            "https://i.nefisyemektarifleri.com/2022/09/11/okul-icin-patatesli-karniyarik-pogaca-puf-puf.jpg",
+        "favorite": 5
+    },
+    {
+        "id": 7,
+        "title": "Patatesli Poğaça",
+        "name": "Seda_Tunc10",
+        "kacKisilik": "4-6",
+        "hazirlanmaSuresi": "1 Saat",
+        "pisirmeSuresi": "30dk",
+        "malzemeler":
+            "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+        "hazirlanisi":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "kategori": "tatli",
+        "img":
+            "https://i.nefisyemektarifleri.com/2022/09/11/okul-icin-patatesli-karniyarik-pogaca-puf-puf.jpg",
+        "favorite": 5
+    },
+    {
+        "id": 8,
+        "title": "Patatesli Poğaça",
+        "name": "Seda_Tunc10",
+        "kacKisilik": "4-6",
+        "hazirlanmaSuresi": "1 Saat",
+        "pisirmeSuresi": "30dk",
+        "malzemeler":
+            "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+        "hazirlanisi":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "kategori": "tatli",
+        "img":
+            "https://i.nefisyemektarifleri.com/2022/09/11/okul-icin-patatesli-karniyarik-pogaca-puf-puf.jpg",
+        "favorite": 5
+    },
+    {
+        "id": 9,
+        "title": "Patatesli Poğaça",
+        "name": "Seda_Tunc10",
+        "kacKisilik": "4-6",
+        "hazirlanmaSuresi": "1 Saat",
+        "pisirmeSuresi": "30dk",
+        "malzemeler":
+            "Hamuru için: \n 5 su bardağı un \n 2 su bardağı ılık su \n 2 paket instant maya",
+        "hazirlanisi":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "kategori": "tatli",
+        "img":
+            "https://i.nefisyemektarifleri.com/2022/09/11/okul-icin-patatesli-karniyarik-pogaca-puf-puf.jpg",
+        "favorite": 5
+    }
+   
+   ],
+   "categories":[
+    {
+      "CategorieId":1,
+      "title":"Atıştırmalık",      
+      "image":"https://abp.com.tr/wp-content/uploads/2021/03/atistirmaliklar-1.jpg"
+    },
+    {
+      "CategorieId":2,
+      "title":"Börek",      
+      "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/03/mercimekli-borek-site-one-cikan.jpg"
+    },
+    {
+      "CategorieId":3,
+      "title":"Çorba",      
+      "image": "https://i4.hurimg.com/i/hurriyet/75/750x422/61b2122f4e3fe01ad49d9e3d.jpg"
+    },
+    {
+        "CategorieId":4,
+        "title":"Diyet",
+        "image": "https://i.pinimg.com/originals/28/0b/f7/280bf72465b2302f1febc0e1a5a9c68d.png"
+    },
+    {
+        "CategorieId":5,
+        "title":"Et",
+        "image": "https://beylerkebap.com.tr/wp-content/uploads/2019/12/adana-kebap-v2.jpg"      
+    },
+    {
+        "CategorieId":6,
+        "title":"Hamur İşi",
+        "image": "https://tarifpaylasimlari.com/wp-content/uploads/2019/12/pogaca-tarifi.jpg"      
+    },
+    {
+        "CategorieId":7,
+        "title":"Makarna",
+        "image": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/ogt/domates-soslu-makarna-ay6i3682-204.webp"      
+    },
+    {
+        "CategorieId":8,
+        "title":"Meze",
+        "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2020/12/cesit-cesit-meze-tarifi.jpg"      
+    },
+    {
+        "CategorieId":9,
+        "title":"Tatlı",
+        "image": "https://cdn.yemek.com/mncrop/620/388/uploads/2022/07/mois-pasta-tarifi-yemekcom.jpg"      
+    },
+    {
+        "CategorieId":10,
+        "title":"Pilav",
+        "image": "https://st3.myideasoft.com/idea/dm/86/myassets/blogs/pilav-tarifi-tane-tane.jpg?revision=1628682122"      
+    },
+    {
+        "CategorieId":11,
+        "title":"Salata",
+        "image": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/ogt/beyaz-peynirli-akdeniz-salatasi.webp"      
+    },
+    {
+        "CategorieId":12,
+        "title":"Tavuk",
+        "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2020/12/tavuk-sis-tarifi.jpg"      
+    }
+   ],
+   "users": [
+    {
+        "userId":1,
+        "name":"Eren Çakır",
+        "email": "orhaneren.57@hotmail.com",
+        "password": "asd1234"    
+    },
+    {
+        "userId":2,
+        "name":"Can Çakır",
+        "email": "can.57@hotmail.com",
+        "password": "asd1234"    
+    }
+   ]   
+}
